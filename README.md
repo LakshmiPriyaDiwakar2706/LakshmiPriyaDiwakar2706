@@ -9,7 +9,8 @@
 </div>
 
 <div align="Left">
-    <!-- Replace href with your links -->
+    <h2>Connect with me</h2>
+    <p>📫 How to reach me: [lakshmipriya.diwakar@gmail.com]</p>
     <a href="https://www.linkedin.com/in/lakshmi-priya-diwakar/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>

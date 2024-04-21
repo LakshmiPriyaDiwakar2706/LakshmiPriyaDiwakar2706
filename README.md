@@ -17,7 +17,7 @@ I am an aspiring Data Analyst.
 - 🎓 Pursuing MSIM at Univeristy of Illinois, Urbana-Champaign
 
 <div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+I+am+Lakshmi+Priya+Diwakar;Welcome+to+my+Github" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+I+am+Lakshmi+Priya;Welcome+to+my+Github" alt="Typing SVG"/>
 </div>
 
 

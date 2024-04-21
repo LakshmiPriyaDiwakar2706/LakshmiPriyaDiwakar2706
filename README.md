@@ -4,25 +4,18 @@
 
 <div align="Left">
     <h2>🚀 About Me</h2>
-    <p>I an aspiring Data Analyst and I am currently on the lookout for opportunities to delve deeper into the field of “Analytics”</p>
+    <p>I am an aspiring Data Analyst and I am currently on the lookout for opportunities to delve deeper into the field of “Analytics”</p>
     <p>My passion lies in exploring how AI tools can optimize processes and drive innovation in the analytics domain.</p>
 </div>
 
 <div align="Left">
     <h2>Connect with me</h2>
     <p>📫 How to reach me: [lakshmipriya.diwakar@gmail.com]</p>
+    <p>LinkedIn:</p>
     <a href="https://www.linkedin.com/in/lakshmi-priya-diwakar/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
-
-### What I'm working on:
-- 🌱 I’m currently learning more about cloud services and containerization.
-- 🔭 I'm working on a personal project that involves a full-stack web application using React and Node.js.
-
-### Connect with me:
-- 📫 How to reach me: [lakshmipriya.diwakar@gmail.com]
-- 💬 Ask me about anything related to JavaScript, Python, or general software development.
 
 ### Quick stats:
 - 🌍 Based in Illinois, United States

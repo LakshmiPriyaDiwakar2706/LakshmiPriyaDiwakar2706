@@ -1,8 +1,25 @@
+# Hi, I'm Lakshmi Priya Diwakar! 👋
+
+## Welcome to my GitHub!
+
+I am an aspiring Data Analyst.
+
+### What I'm working on:
+- 🌱 I’m currently learning more about cloud services and containerization.
+- 🔭 I'm working on a personal project that involves a full-stack web application using React and Node.js.
+
+### Connect with me:
+- 📫 How to reach me: [lakshmipriya.diwakar@gmail.com]
+- 💬 Ask me about anything related to JavaScript, Python, or general software development.
+
+### Quick stats:
+- 🌍 Based in Illinois, United States
+- 🎓 Pursuing MSIM at Univeristy of Illinois, Urbana-Champaign
+
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+I+am+Lakshmi+Priya+Diwakar;Welcome+to+my+Github" alt="Typing SVG"/>
-    </h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+I+am+Lakshmi+Priya+Diwakar;Welcome+to+my+Github" alt="Typing SVG"/>
 </div>
+
 
 
 

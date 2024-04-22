@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=700&lines=Hi,+I+am+Lakshmi+Priya+Diwakar;Welcome+to+my+Github" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github" alt="Typing SVG"/>
 </div>
 
 # Hello! I am Lakshmi Priya Diwakar 👋

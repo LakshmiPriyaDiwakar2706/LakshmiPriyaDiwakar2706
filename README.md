@@ -5,7 +5,7 @@
 # Hello! I am Lakshmi Priya Diwakar 👋
 
 ### 🎓 About Me
-- 🌱 I’m exploring the vast world of **Information Management** at **University of Illinois, Urbana-Champaign**.
+- 🌱 I’m exploring the vast world of **Data** by pursuing my master's degree in Information Management at **University of Illinois, Urbana-Champaign**.
 - 🔭 Leveraging my past as a **Software Engineer at LTImindtree** to tackle data-driven challenges.
 - 🤖 Passionately transitioning to **Data Science** with a focus on improving healthcare outcomes.
 
@@ -17,12 +17,20 @@
 ### 🚀 Long-Term Goal
 - 🏥 Utilize data science to drive innovations and enhance efficiencies within the healthcare industry.
 
+### 🌐 Connect with Me
+
+- 💼 Let’s network on [LinkedIn](https://www.linkedin.com/in/lakshmi-priya-diwakar/)
+- 📧 Drop me an email at [lakshmipriya.diwakar@gmail.com](mailto:lakshmipriya.diwakar@gmail.com)
+
+
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 Python       10 hrs 30 mins  ████████████████████▒░░░░   81.00 %
 R            2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   19.00 %
 Other        0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
+
 
 
 

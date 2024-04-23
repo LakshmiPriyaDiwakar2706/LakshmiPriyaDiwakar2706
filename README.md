@@ -6,7 +6,7 @@
 
 ### 🎓 About Me
 - 🌱 I'm on an explorative journey into the realm of data, pursuing my master's degree in Information Management at the University of Illinois, Urbana-Champaign. My roots as a Software Engineer at LTImindtree have prepared me to embrace and overcome the complexities of data-driven challenges.
-- 🤖 My passion for ** Data Science ** is fueled by a desire to make meaningful contributions to healthcare, enhancing patient outcomes through insightful data analysis and innovative tech solutions.
+- 🤖 My passion for **Data Science** is fueled by a desire to make meaningful contributions to healthcare, enhancing patient outcomes through insightful data analysis and innovative tech solutions.
 
 ### 🎯 2024 Goals
 - 🐍 Gain proficiency in advanced Python and R libraries to sharpen my data science toolkit.

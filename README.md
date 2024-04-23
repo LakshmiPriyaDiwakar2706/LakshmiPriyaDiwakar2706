@@ -22,8 +22,7 @@
 - 📧 Drop me an email at [lakshmipriya.diwakar@gmail.com](mailto:lakshmipriya.diwakar@gmail.com)
  
 ## Explore My Projects
-This GitHub serves as a platform to exhibit my projects, to trace my growth in data science
-<p>I warmly invite you to browse through my <a href="https://github.com/LakshmiPriyaDiwakar2706#pinned-repositories">pinned projects</a>. Your feedback is always appreciated, as it fuels my growth and learning in data science.</p>
+This GitHub serves as a platform to exhibit my projects, to trace my growth in data science. I warmly invite you to browse through my pinned projects. Your feedback is always appreciated, as it fuels my growth and learning in data science.
 
 
 

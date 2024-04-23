@@ -5,30 +5,23 @@
 # Hello! I am Lakshmi Priya Diwakar 👋
 
 ### 🎓 About Me
-- 🌱 I’m exploring the vast world of **Data** by pursuing my master's degree in Information Management at **University of Illinois, Urbana-Champaign**.
-- 🔭 Leveraging my past as a **Software Engineer at LTImindtree** to tackle data-driven challenges.
-- 🤖 Passionately transitioning to **Data Science** with a focus on improving healthcare outcomes.
+- 🌱 I'm on an explorative journey into the realm of data, pursuing my master's degree in Information Management at the University of Illinois, Urbana-Champaign. My roots as a Software Engineer at LTImindtree have prepared me to embrace and overcome the complexities of data-driven challenges.
+- 🤖 My passion for ** Data Science ** is fueled by a desire to make meaningful contributions to healthcare, enhancing patient outcomes through insightful data analysis and innovative tech solutions.
 
 ### 🎯 2024 Goals
-- 🐍 Master advanced libraries in **Python** and **R**.
-- ☁️ Embark on a journey through **cloud technology**, starting with **AWS**.
-- 🛠️ Build and share **3 personal projects** that showcase real-world applications of data science.
+- 🐍 Gain proficiency in advanced Python and R libraries to sharpen my data science toolkit.
+- ☁️ Begin my journey in cloud technologies, with a focus on mastering AWS to leverage its powerful cloud computing capabilities.
+- 🛠️ Create and showcase three personal projects that highlight the practical applications and impact of data science in real-life scenarios.
 
 ### 🚀 Long-Term Goal
-- 🏥 Utilize data science to drive innovations and enhance efficiencies within the healthcare industry.
+- 🏥 Dedicate my data science expertise to spearhead advancements and efficiency in healthcare, one of the pillars of a thriving society. I am equally interested in the education domain, firmly believing in the transformative power of both health and education in an individual's life. 
 
 ### 🌐 Connect with Me
 
 - 💼 Let’s network on [LinkedIn](https://www.linkedin.com/in/lakshmi-priya-diwakar/)
 - 📧 Drop me an email at [lakshmipriya.diwakar@gmail.com](mailto:lakshmipriya.diwakar@gmail.com)
 
-
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-Python       10 hrs 30 mins  ████████████████████▒░░░░   81.00 %
-R            2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   19.00 %
-Other        0 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+This GitHub serves as a platform to exhibit my projects, to trace my growth in data science. I warmly welcome any feedback or suggestions that could help me improve and evolve on my data science journey.
 
 
 

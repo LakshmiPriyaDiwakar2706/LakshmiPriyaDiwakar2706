@@ -23,7 +23,7 @@
  
 ## Explore My Projects
 This GitHub serves as a platform to exhibit my projects, to trace my growth in data science
-<p>I warmly invite you to browse through my <a href="https://github.com/LakshmiPriyaDiwakar2706?tab=repositories">pinned projects</a>. Your feedback is always appreciated, as it fuels my growth and learning in data science.</p>
+<p>I warmly invite you to browse through my <a href="https://github.com/LakshmiPriyaDiwakar2706#pinned-repositories">pinned projects</a>. Your feedback is always appreciated, as it fuels my growth and learning in data science.</p>
 
 
 

@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github" alt="Typing SVG"/>
 </div>
 
-# Hello! I am Lakshmi Priya Diwakar 👋
+# Hello! I am Lakshmi Priya Diwakar who loves interviewing data 👋
 
 ### 🎓 About Me
 - 🌱 I'm on an explorative journey into the realm of data, pursuing my master's degree in Information Management at the University of Illinois, Urbana-Champaign. My roots as a Software Engineer at LTImindtree have prepared me to embrace and overcome the complexities of data-driven challenges.
@@ -14,7 +14,7 @@
 - 🛠️ Create and showcase three personal projects that highlight the practical applications and impact of data science in real-life scenarios.
 
 ### 🚀 Long-Term Goal
-- 🏥 Dedicate my data science expertise to spearhead advancements and efficiency in healthcare, one of the pillars of a thriving society. I am equally interested in the education domain, firmly believing in the transformative power of both health and education in an individual's life. 
+- 🏥 Leverage my data skills in the marketing domain to find insights and deliver actionable recommendations.
 
 ### 🌐 Connect with Me
 
